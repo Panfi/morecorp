@@ -33,7 +33,7 @@ php artisan migrate
 # ADMIN
 ```bash
 URL: http://localhost:8000/admin/login
-email: please check the DB after after seeding
+email: please check the DB after seeding
 pass: password
 ````
 
