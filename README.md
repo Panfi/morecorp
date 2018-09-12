@@ -30,5 +30,8 @@ Migrate the tables the you are good to go:
 ```bash
 php artisan migrate
 ```
+# ADMIN
+URL: http://localhost:8000/admin/login
+password: password
 
 
