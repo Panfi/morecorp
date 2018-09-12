@@ -31,7 +31,10 @@ Migrate the tables the you are good to go:
 php artisan migrate
 ```
 # ADMIN
+```bash
 URL: http://localhost:8000/admin/login
-password: password
+email: please check the DB after after seeding
+pass: password
+````
 
 
